@@ -1,6 +1,7 @@
 # Frederick Clarke - Atlanta Braves Assessment
 
-This application allows for the provided batted ball data to be analyzed individually, in addition to producing graphs to visualize the overall trends within the data. A user can iterate through at bats, watch the video, and view the statistics. A simple k-Nearest Neighbors model is used to calculated a projected outcome for each at bat.
+## Overview
+This application allows for the provided batted ball data to be analyzed individually, in addition to producing graphs to visualize the overall trends within the data. A user can iterate through at bats, watch the video, and view the statistics. A simple k-Nearest Neighbors model is used to calculated a projected outcome for each at bat. The frontend is built with React using the MaterialUI and Axios libraries. The backend is built with Flask using the Pandas, Matplotlib, and SciKit-Learn libraries.
 
 ## Requirements
 - Python3 (3.9.6 recommended)
