@@ -1,5 +1,7 @@
 # Frederick Clarke - Atlanta Braves Assessment
 
+This application allows for the provided batted ball data to be analyzed individually, in addition to producing graphs to visualize the overall trends within the data. A user can iterate through at bats, watch the video, and view the statistics. A simple k-Nearest Neighbors model is used to calculated a projected outcome for each at bat.
+
 ## Requirements
 - Python3 (3.9.6 recommended)
 - Node.js (20.8.1 recommended)
