@@ -5,6 +5,7 @@
 - Node.js (20.8.1 recommended)
 
 ## Installing Dependencies
+From project root:
 - cd visualizer
 - pip install flask matplotlib pandas scikit-learn Flask-Cors
 - cd ..
