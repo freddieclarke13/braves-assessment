@@ -13,7 +13,9 @@ From project root:
 - npm install react axios @mui/material @emotion/react @emotion/styled
 
 ## Running the Application
+From project root:
 - cd visualizer
+- flask --app app run
 - cd ..
 - cd frontend
 - npm start
