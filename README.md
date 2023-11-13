@@ -1,4 +1,4 @@
-# braves-assessment
+# Frederick Clarke - Atlanta Braves Assessment
 
 ## Requirements
 Python3 (3.9.6 recommended)
